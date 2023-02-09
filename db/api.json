@@ -1,0 +1,62 @@
+[
+    {
+        "precio": 2366,
+        "id": 1,
+        "title": "Cafe",
+        "imageUrl": "https://picsum.photos/id/0/600"
+    },
+    {
+        "precio": 553,
+        "id": 2,
+        "title": "Telefono",
+        "imageUrl": "https://picsum.photos/id/16/600"
+    },
+    {
+        "precio": 121,
+        "id": 3,
+        "title": "Mesa",
+        "imageUrl": "https://picsum.photos/id/86/600"
+    },
+    {
+        "precio": 4758,
+        "id": 4,
+        "title": "Pc",
+        "imageUrl": "https://picsum.photos/id/74/600"
+    },
+    {
+        "precio": 8753,
+        "id": 5,
+        "title": "Mouse",
+        "imageUrl": "https://picsum.photos/id/32/600"
+    },
+    {
+        "precio": 4768,
+        "id": 6,
+        "title": "Tele",
+        "imageUrl": "https://picsum.photos/id/578/600"
+    },
+    {
+        "precio": 5070,
+        "id": 7,
+        "title": "Laptop",
+        "imageUrl": "https://picsum.photos/id/295/600"
+    },
+    {
+        "precio": 56,
+        "id": 8,
+        "title": "Coca",
+        "imageUrl": "https://picsum.photos/id/34/600"
+    },
+    {
+        "precio": 78456,
+        "id": 9,
+        "title": "Galleta",
+        "imageUrl": "https://picsum.photos/id/76/600"
+    },
+    {
+        "precio": 765,
+        "id": 10,
+        "title": "Mochila",
+        "imageUrl": "https://picsum.photos/id/46/600"
+    }
+]
